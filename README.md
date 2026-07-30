@@ -1,1 +1,0 @@
-I built OmniBrief, an AI summarizer using LangChain and Groq LLMs that extracts and summarizes content from YouTube, websites, and PDFs. It supports multiple styles, tones, and languages (English/Urdu) and allows users to download professional summaries instantly.
